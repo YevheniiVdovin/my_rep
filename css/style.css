@@ -70,6 +70,23 @@ header a img {
 
 }
 
+
+
+
+.video {
+    text-align: center;
+}
+.video iframe {
+    width: 480px;
+    height: 360px;
+}
+
+.video h3 {
+    text-align: center;
+    color: #fff;
+    
+}
+
 .content-gif img {
     width: 40%;
     margin-bottom: 20px;
